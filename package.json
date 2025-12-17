@@ -1,0 +1,16 @@
+{
+  "name": "logic-lab",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "scripts": {
+    "run:watch": "bun --watch index.ts",
+    "test:watch": "bun test --watch"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
