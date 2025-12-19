@@ -33,6 +33,9 @@ A practical exercise in Test-Driven Development (TDD), this project calculates l
 **[String Calculator](./projects/009-string-calculator/)**
 Another TDD-focused challenge, this project involves creating a string calculator that parses a string of numbers and returns their sum, with added complexity for handling custom delimiters.
 
+**[Friendly Greeter](./projects/010-friendly-greeter/)**
+My first Python exercise! Abasic exercise teaching me the basics of reading inputs, storing variables, printing output and running a script
+
 ---
 
 ## Getting Started
